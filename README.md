@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-![Hero Image](Cream Blue Simple Email Header.gif)
-
-
+<img alt="GIF" src="https://github.com/ichwan97/ichwan97/blob/main/Cream%20Blue%20Simple%20Email%20Header.gif" />
+ 
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
