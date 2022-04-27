@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**ichwan97/ichwan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Hero Image](Cream Blue Simple Email Header.gif)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
