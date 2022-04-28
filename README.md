@@ -16,7 +16,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ichwanmaulana_)
 <a href="https://github.com/ichwan97" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@ichwan97-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
-<img align="right" alt="GIF" src="https://github.com/ichwan97/ichwan97/blob/main/16952-group-working-1%20(1).gif?raw=true" width="300" height="300" />
+<img align="right" alt="GIF" src="https://github.com/ichwan97/ichwan97/blob/main/16952-group-working-1%20(1).gif?raw=true" width="360" height="360" />
 
 Hello ! 🙋🏻
 
@@ -46,6 +46,6 @@ I am looking for opportunities for a career as a data scientist, data analyst an
 
 <img src="https://github-readme-stats.vercel.app/api?username=ichwan97&show_icons=true&theme=flag-india" alt="github stats" width="45%" align="right"/>
 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichwan97&theme=orange" width="48%" align="left"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichwan97&layout=compact)](https://github.com/ichwan97/github-readme-stats)
