@@ -34,7 +34,6 @@ Test... Test... Test...
 <code><img height="20" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
  
- 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ichwan97&show_icons=true&theme=flag-india" alt="github stats" width="45%" align="right"/>
 
