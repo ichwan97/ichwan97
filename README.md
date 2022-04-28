@@ -38,7 +38,7 @@ Test... Test... Test...
 
 <img src="https://github-readme-stats.vercel.app/api?username=ichwan97&show_icons=true&theme=flag-india" alt="github stats" width="45%" align="right"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ichwan97&theme=orange" width="48%" align="left" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ichwan97&theme=orange" width="48%" align="left"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichwan97&layout=compact)](https://github.com/ichwan97/github-readme-stats)
