@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img alt="GIF" src="https://github.com/ichwan97/ichwan97/blob/main/Cream%20Blue%20Simple%20Email%20Header.gif" />
+<img alt="GIF" src="https://github.com/ichwan97/ichwan97/blob/main/Minimal%20Aesthetic%20Hello%20February%20Facebook%20Cover.png" />
  
  
 - 🔭 I’m currently working on ...
