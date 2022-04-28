@@ -1,6 +1,6 @@
 <a href="https://github.com/ichwan97" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ichwan97/ichwan97?label=profile%20updated&style=flat-square"></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ichwan97.ichwan97)
-# Hi, I'm Ichwan Maulana 👋
+# Hi 👋, I'm Ichwan Maulana
 ## I AM DATA SCIENTIST
 <code><img height="35" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
 <code><img height="35" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
