@@ -16,7 +16,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ichwanmaulana_)
 <a href="https://github.com/ichwan97" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@ichwan97-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
-<img align="right" alt="GIF" src="https://github.com/ichwan97/ichwan97/blob/main/16952-group-working-1%20(1).gif?raw=true" width="450" height="450" />
+<img align="right" alt="GIF" src="https://github.com/ichwan97/ichwan97/blob/main/16952-group-working-1%20(1).gif?raw=true" width="350" height="350" />
 
 Test... Test... Test...
 
