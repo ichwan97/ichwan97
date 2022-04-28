@@ -34,6 +34,5 @@ Test... Test... Test...
 <code><img height="20" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
  
- 
-![ichwan97 Github Stats](https://github-readme-stats.vercel.app/api?username=ichwan97&count_private=true&show_icons=true&include_all_commits=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichwan97)](https://github.com/ichwan97/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ichwan97&show_icons=true&theme=flag-india" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ichwan97&theme=orange" width="48%" >
