@@ -16,7 +16,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ichwanmaulana_)
 <a href="https://github.com/ichwan97" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@ichwan97-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
-<img align="right" alt="GIF" src="https://github.com/ichwan97/ichwan97/blob/main/16952-group-working-1%20(1).gif?raw=true" width="540" height="540" />
+<img align="right" alt="GIF" src="https://github.com/ichwan97/ichwan97/blob/main/16952-group-working-1%20(1).gif?raw=true" width="540" height="450" />
 Hello ! 🙋🏻
 
 Ichwan is a person who is very hungry for new knowledge, he is a person who is curious and enthusiastic about learning new things. He graduated in mathematics education, and after graduating he worked as a project supervisor for 3 years. He learned many things such as coordinating projects, managing company finances, and making tax reports. And now he is enthusiastic about studying data science, many things that make him interested in studying data science such as processing big data, visualizing data, cleaning data, modeling, machine learning & many more that he wants to learn.
