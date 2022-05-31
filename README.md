@@ -23,9 +23,9 @@ Ichwan is a person who is very hungry for new knowledge, he is a person who is c
 
 My skills :
 
-🔹 Programming Language: Python (Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn)
+🔹 Programming Language: Python (Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn), SQL
 
-🔹 Visualization Tools: Tableau
+🔹 Visualization Tools: Google Data Studio
 
 🔹 Others: Excel ( Pivot, HLOOKUP, VLOOKUP, etc)
 
