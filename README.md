@@ -1,4 +1,4 @@
-<a href="https://github.com/ichwan97" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ichwan97/ichwan97?label=profile%20updated&style=flat-square"></a>
+<a href="https://github.com/ichwan97" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ichwan97/ichwan97?label=profile%20updated&style=flat-square"></a> 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ichwan97.ichwan97)
 # Hi 👋, I'm Ichwan Maulana
 ## I AM DATA SCIENTIST
@@ -10,7 +10,7 @@
 <code><img height="35" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
 <code><img height="35" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
 
-<img src="https://github.com/ichwan97/ichwan97/blob/main/Data%20Scientist.png" />
+<img src="https://github.com/ichwan97/ichwan97/blob/main/Data%20Scientist%20(1).png" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ichwanmaulana/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ichwanmaulana_)
